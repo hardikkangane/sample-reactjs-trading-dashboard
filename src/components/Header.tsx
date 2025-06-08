@@ -16,8 +16,8 @@ const Header = () => {
           <div className="flex items-center">
             <div className="flex-shrink-0 flex items-center">
               <TrendingUp className="h-8 w-8 text-green-600" />
-              <span className="ml-2 text-xl font-bold text-gray-900">TradePro</span>
-{/*               <span className="ml-2 text-xl font-bold text-gray-900">TradeMaster</span> */}
+{/*               <span className="ml-2 text-xl font-bold text-gray-900">TradePro</span> */}
+              <span className="ml-2 text-xl font-bold text-gray-900">TradeMaster</span>
             </div>
           </div>
           
@@ -52,7 +52,7 @@ const Header = () => {
             >
               Trade
             </Link>
-            <Link 
+{/*             <Link 
               to="/history" 
               className={`px-3 py-2 text-sm font-medium transition-colors ${
                 isActive("/history") 
@@ -61,7 +61,7 @@ const Header = () => {
               }`}
             >
               History
-            </Link>
+            </Link> */}
           </nav>
 
           <div className="flex items-center space-x-4">
