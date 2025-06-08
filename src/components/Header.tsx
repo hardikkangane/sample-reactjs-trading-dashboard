@@ -41,7 +41,7 @@ const Header = () => {
             >
               Markets
             </Link>
-            <Link 
+{/*             <Link 
               to="/trade" 
               className={`px-3 py-2 text-sm font-medium transition-colors ${
                 isActive("/trade") 
@@ -60,7 +60,7 @@ const Header = () => {
               }`}
             >
               History
-            </Link>
+            </Link> */}
           </nav>
 
           <div className="flex items-center space-x-4">
