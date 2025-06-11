@@ -1,4 +1,4 @@
-# This is a sample React.js trading dashboard
+# A sample React.js trading dashboard
 (This dashboard is made with the help of [Lovable Ai](https://lovable.dev/))
 ### Dockerized this application
 Build a Docker image
